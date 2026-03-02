@@ -29,8 +29,8 @@
 
 **ポスター**
 
-<object data="STM中間_ポスター _04_eng.pdf" type="application/pdf" width="100%" height="500px">
-    <p>お使いのブラウザではPDFを表示できません。 <a href="STM中間_ポスター _04_eng.pdf">こちらからダウンロード</a>してご確認ください。</p>
+<object data="pic/poster.pdf" type="application/pdf" width="100%" height="500px">
+    <p>お使いのブラウザではPDFを表示できません。 <a href="pic/poster.pdf">こちらからダウンロード</a>してご確認ください。</p>
 </object>
 
 ### 絵画鑑賞における視線誘導のための聴覚情報付与が記憶に与える影響
