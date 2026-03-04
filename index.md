@@ -37,13 +37,13 @@
 
 ### 軽度認知障害ドライバの認知機能低下による運転行動特性に関する研究
 
-<video src="pic/49_2.mp4" width="100%" muted autoplay loop playsinline></video>
+<video src="pic/49_2.mp4" width="45%" muted autoplay loop playsinline></video><img src="pic/course.png" width="45%">
 
 軽度認知障害（MCI）ドライバの事故低減を目指し、車線変更時の安全確認不足が生じる認知メカンズムを研究しています。MCI者は情報の「貯蔵」は可能ですが、高負荷時に情報を引き出す「想起」が困難という特性を持ちます。実車実験の結果、MCIはハンドル操作直前の「2回目の安全確認」を欠落させる傾向を突き止めました。現在はアイトラッカーでこの欠落をリアルタイム検知し、HUDやステアリングへの触覚提示で想起を物理的に補完する支援手法を構築・検証中です。人間への深い洞察に基づき、設計と実装で人の能力を拡張するUXの実現に貢献します。
 
 **ポスター**
 
-<object data="pic/poster.pdf" type="application/pdf" width="60%" height="500px">
+<object data="pic/poster.pdf" type="application/pdf" width="80%" height="500px">
     <p>お使いのブラウザではPDFを表示できません。 <a href="pic/poster.pdf">こちらからダウンロード</a>してご確認ください。</p>
 </object>
 
@@ -58,7 +58,7 @@
 
 ### VR環境における触覚制御の実装と没入感への影響検証（2023～2024）
 
-<img src="pic/character.jpg" width="30%"> <img src="pic/falcon.jpg" width="20%"><img src="pic/Anketo.png" width="30%">
+<img src="pic/character.jpg" width="30%"> <img src="pic/falcon.jpg" width="21%"><img src="pic/Anketo.png" width="30%">
 <img src="pic/system.png" width="45%">
 
 「魅せる食」という課題に対し、若者の恋愛離れという社会課題を背景としたマルチモーダルな体験設計として、VR内での疑似接触を伴うシステムの構築に挑みました。視覚情報（Quest 2）に加え、3自由度力覚デバイス（Novint Falcon）を用いて人特有の頭部の挙動を物理的に再現することで、視触覚統合による没入感の向上を図りました。C＋＋/Unityを用いたデバイス制御により、仮想空間と物理空間の座標を同期させるプロトタイプを開発しました。デモ展示を通じた簡易的なユーザー検証では、適応的挙動の実装に課題を残したものの、視触覚の提示タイミングが体験者の情動（驚きや照れ）に与える影響を確認できました。この経験から、人間の認知特性に基づいた設計から実装、検証までを一貫して行うUXデザインの基礎を体得しました。
@@ -89,4 +89,4 @@
 #### 第15回ドイツ交換交流派遣 大学生リーダー（2023～2024）
 日独派遣のリーダーとして、多国籍な集団の相互理解を主導。集団力学を活かして本音を引き出す「心理的安全な環境」を構築しました。多様な価値観を統合し、共創を促す「場のデザイン力」の礎です。
 
-<img src="pic/gmgm.JPG" width="15%"> <img src="pic/gmjp.JPEG" width="45%">
+<img src="pic/gmgm.JPG" width="20%"> <img src="pic/gmjp.JPEG" width="45%">
