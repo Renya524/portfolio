@@ -37,7 +37,10 @@
 
 ### 軽度認知障害ドライバの認知機能低下による運転行動特性に関する研究
 
-<video src="pic/49_2.mp4" width="45%" muted autoplay loop playsinline></video><img src="pic/course.png" width="45%">
+<div style="display: flex; align-items: center; gap: 10px;">
+  <video src="pic/49_2.mp4" width="48%" muted autoplay loop playsinline></video>
+  <img src="pic/course.png" width="48%">
+</div>
 
 軽度認知障害（MCI）ドライバの事故低減を目指し、車線変更時の安全確認不足が生じる認知メカンズムを研究しています。MCI者は情報の「貯蔵」は可能ですが、高負荷時に情報を引き出す「想起」が困難という特性を持ちます。実車実験の結果、MCIはハンドル操作直前の「2回目の安全確認」を欠落させる傾向を突き止めました。現在はアイトラッカーでこの欠落をリアルタイム検知し、HUDやステアリングへの触覚提示で想起を物理的に補完する支援手法を構築・検証中です。人間への深い洞察に基づき、設計と実装で人の能力を拡張するUXの実現に貢献します。
 
